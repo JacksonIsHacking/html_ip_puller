@@ -1,4 +1,4 @@
-<center><h1> READ ME </h1></center>
+<h1> READ ME </h1>
 
 
 <h5> 1. Replace 'WEBHOOK_URL' with your actual Discord webhook URL </h5>
